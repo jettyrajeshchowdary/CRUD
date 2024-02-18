@@ -1,4 +1,4 @@
-   
+        
 let a = {
   name: 'fatfish',
   toString () {  
