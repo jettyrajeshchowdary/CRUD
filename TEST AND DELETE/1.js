@@ -1,6 +1,6 @@
  let a = {
   name: 'fatfish',    
-  toString () {                        
+  toString () {                          
     return 'medium'                
   }       
 }                  
