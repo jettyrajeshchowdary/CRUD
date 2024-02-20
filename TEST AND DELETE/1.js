@@ -1,7 +1,7 @@
-  let a = {
+   let a = {
   name: 'fatfish',    
   toString () {                             
-    return 'medium'                
+    return 'medium'                 
   }       
 }                  
        
