@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     // fix the error         
             
 function addNumbers(num1,num2){   
@@ -5,9 +6,18 @@ function addNumbers(num1,num2){
 }   
             
 console.log (addnumbers(1,2));     
+=======
+                  // fix the error         
+              
+function addNumbers(num1,num2){    
+    return num1 + num2     
+}     
+             
+console.log (addnumbers(1,2));    
+>>>>>>> 74edafe56548b2aff682146ab892c31d8abf0f6f
                    
            
- 
+
    
  
 
