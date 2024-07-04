@@ -1,6 +1,4 @@
-    s  s
-          s
-          s
+
  
     // fix the error             
              
